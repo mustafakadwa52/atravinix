@@ -1,0 +1,140 @@
+
+---Downloaded files---
+The import files for: Default Demo were successfully downloaded!
+Initial max execution time = 1000
+Files info:
+Site URL = http://localhost/atravinix
+Data file = C:\xampp\htdocs\atravinix/wp-content/themes/ultrabootstrap/demo/default/demo-content.xml
+Widget file = C:\xampp\htdocs\atravinix/wp-content/themes/ultrabootstrap/demo/default/widgets.json
+Customizer file = C:\xampp\htdocs\atravinix/wp-content/themes/ultrabootstrap/demo/default/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "2" (Media)
+
