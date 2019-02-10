@@ -728,7 +728,7 @@ body {
 }
 a,
 a:visited {
-    color: #8e9db3;
+    color: #0e1723;
     text-decoration: none;
 }
 a:hover {
@@ -776,7 +776,7 @@ h6 {
 h4 {
     letter-spacing: 2px;
     text-transform: uppercase;
-    border-bottom: 2px solid #8e9db3;
+    border-bottom: 2px solid #0e1723;
     display: inline-block;
     padding-bottom: 10px;
     margin-bottom: 20px;
@@ -830,7 +830,7 @@ header .navbar-form .main-search .btn .fa {
     font-size: 1.5em;
 }
 header .navbar-form .btn {
-    background: ##8e9db3;
+    background: #0e1723;
     padding: 0 21px;
     box-shadow: none;
     border: none;
@@ -897,7 +897,7 @@ header .navbar-default .navbar-nav li a {
 .dropdown-menu>.active>a,
 .dropdown-menu>.active>a:focus,
 .dropdown-menu>.active>a:hover {
-    background-color: #8e9db3
+    background-color: #0e1723
 }
 /*header*/
 /* theme slider */
@@ -950,7 +950,7 @@ header .navbar-default .navbar-nav li a {
     height: 100%;
 }
 .welcome .message {
-    background-color: #8e9db3;
+    background-color: #0e1723;
     color: #fff;
     padding: 30px;
     position: relative;
@@ -1013,7 +1013,7 @@ header .navbar-default .navbar-nav li a {
     position: fixed;
     right: 30px;
     bottom: 30px;
-    background-color: #8e9db3;
+    background-color: #0e1723;
     color: #fff;
     border-radius: 50%;
     width: 30px;
@@ -1049,7 +1049,7 @@ section.footers {
         font-size: 2em;
         font-weight: 400;
         color: #000;
-        border-bottom: 2px solid ##8e9db3;
+        border-bottom: 2px solid ##0e1723;
         display: inline-block;
         padding-bottom: 10px;
     }
@@ -1094,7 +1094,7 @@ section.footers {
         width: 100%;
     }
     .comments-area .comment-form .form-submit input {
-        background: #8e9db3;
+        background: #0e1723;
         color: #fff;
         text-transform: uppercase;
         letter-spacing: 3px;
@@ -1148,7 +1148,7 @@ section.footers {
         .navbar-default .navbar-toggle {
             position: absolute;
             right: 0;
-            background: #8e9db3;
+            background: #0e1723;
             border: none;
             border-radius: 0;
         }
@@ -1198,3 +1198,11 @@ section.footers {
             padding-left: 15px;
         }
     }
+
+.navig > li {
+	position: relative;
+    display: block;
+    border-right-width: 1px;
+    border-right-style: inset;
+    border-right-color: #eef0ef;
+}
